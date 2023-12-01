@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ The\ ATM\ controller\ is\ quite\ simple\ -\ the\ process\ method\ is\ passed\r\n\ the\ label\ on\ the\ button\ that\ was\ pressed,\ and\ it\ calls\ different\r\n\ methods\ in\ the\ model\ depending\ what\ was\ pressed.\r\n\r\n\ @author\ Josh\ Tite\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=Controller()
+comment2.params=action
+comment2.target=void\ process(java.lang.String)
+numComments=3

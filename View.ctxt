@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\r\n\ The\ View\ class\ creates\ and\ manages\ the\ GUI\ for\ the\ application.\r\n\ It\ doesn't\ know\ anything\ about\ the\ ATM\ itself,\ it\ just\ displays\r\n\ the\ current\ state\ of\ the\ Model,\ (title,\ output1\ and\ output2),\ \r\n\ and\ handles\ user\ input\ from\ the\ buttonsand\ handles\ user\ input\r\n\r\n\ @author\ Josh\ Tite\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=View()
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=event
+comment3.target=void\ buttonClicked(javafx.event.ActionEvent)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

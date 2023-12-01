@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ BankAccount\ is\ the\ class\ to\ manage\ each\ account\r\n\r\n\ @author\ Josh\ Tite\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=BankAccount()
+comment2.params=a\ p\ b
+comment2.target=BankAccount(int,\ int,\ int)
+comment3.params=amount
+comment3.target=boolean\ withdraw(int)
+comment4.params=amount
+comment4.target=boolean\ deposit(int)
+comment5.params=
+comment5.target=int\ getBalance()
+numComments=6

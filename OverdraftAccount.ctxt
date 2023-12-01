@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OverdraftAccount
+comment0.text=\r\n\ OverdraftAccount\ inherits\ from\ BankAccount\ and\ utilises\ an\ overdraft\r\n\r\n\ @author\ Josh\ Tite\r\n\ @version\ 1.0.0\r\n
+comment1.params=a\ p\ b\ o
+comment1.target=OverdraftAccount(int,\ int,\ int,\ int)
+comment2.params=amount
+comment2.target=boolean\ withdraw(int)
+comment2.text=\r\n\ A\ method\ to\ withdraw\ that\ overrides\ the\ withdraw\ superclass\ method\r\n\ @param\ amount\ to\ withdraw\r\n\ @return\ Returns\ a\ negative\ balance\ within\ the\ overdraft\ if\ needed\ unlike\ the\ superclass\ method\r\n
+comment3.params=
+comment3.target=int\ getOverdraft()
+comment3.text=\r\n\ A\ method\ to\ return\ the\ overdraft\ overdraft\r\n
+numComments=4
